@@ -1,5 +1,5 @@
 # WeChat-Work-Hook 🚀
-
+[![GitHub stars](https://img.shields.io/github/stars/xing653245/WeChat-Work-Hook?style=social)](https://github.com/xing653245/WeChat-Work-Hook/stargazers)
 基于 Hook 技术的企业微信自动化助手框架。支持消息实时收发、群组自动化管理，为机器人开发者提供稳定、高效的接口支持。
 
 ### 🌟 核心功能
