@@ -111,7 +111,7 @@ http.Post("http://127.0.0.1:8989/api", "application/json", strings.NewReader(bod
 ```
 
 > 📄 完整 API 文档（含全部接口类型、参数说明、返回值示例）通过 **Apifox** 提供。
-> 链接：https://23t2z5j37i.apifox.cn/，授权后即可获取密码。
+> 链接：https://23t2z5j37i.apifox.cn/ 。授权后即可获取密码。
 
 ---
 
