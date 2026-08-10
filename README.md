@@ -11,7 +11,9 @@
 [![Release](https://img.shields.io/github/v/release/xing653245/WeChat-Work-Hook?style=flat-square&color=green)](https://github.com/xing653245/WeChat-Work-Hook/releases)
 [![License](https://img.shields.io/badge/license-Commercial-red?style=flat-square)](/)
 
-**适配版本：企业微信 v4.1.36.6012    企业微信 v5.0.3.6005 ｜ 系统要求：Windows 10 / 11**
+**适配版本：企业微信 v4.1.36.6012    
+           企业微信 v5.0.3.6005 
+           系统要求：Windows 10 / 11**
 
 
 
