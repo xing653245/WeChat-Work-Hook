@@ -19,7 +19,7 @@
 <p>
   <a href="https://github.com/xing653245/WeChat-Work-Hook/releases/latest"><strong>📥 下载最新版</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://23t2z5j37i.apifox.cn/"><strong>📖 接口文档</strong></a>
+  <a href="1mnll70y7n.apifox.cn"><strong>📖 接口文档</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-联系作者"><strong>💬 联系作者</strong></a>
 </p>
